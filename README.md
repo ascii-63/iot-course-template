@@ -7,7 +7,7 @@ Ensure that your machine is running Ubuntu or Windows Subsystem for Linux (WSL) 
 ## Requirement:
 ```bash
 sudo apt-get update 
-sudo apt-get install pkg-config git \
+sudo apt-get install pkg-config git openssl \
 sudo apt-get install mosquitto mosquitto-clients
 ```
 ```bash
