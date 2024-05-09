@@ -7,7 +7,8 @@ Ensure that your machine is running Ubuntu or Windows Subsystem for Linux (WSL) 
 ## Requirement:
 ```bash
 sudo apt-get update 
-sudo apt-get install pkg-config git
+sudo apt-get install pkg-config git \
+sudo apt-get install mosquitto mosquitto-clients
 ```
 ```bash
 sudo apt-get install build-essential gcc make cmake cmake-gui cmake-curses-gui \
