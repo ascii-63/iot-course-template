@@ -39,5 +39,5 @@ sudo ldconfig
 ```
 ## Install:
 ```bash
-https://github.com/ascii-63/iot-course-template.git
+git clone https://github.com/ascii-63/iot-course-template.git
 ```
