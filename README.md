@@ -37,3 +37,7 @@ cmake -Bbuild -H. -DPAHO_BUILD_STATIC=ON \
 sudo cmake --build build/ --target install
 sudo ldconfig
 ```
+# Install:
+```bash
+https://github.com/ascii-63/iot-course-template.git
+```
