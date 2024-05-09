@@ -8,7 +8,7 @@ Ensure that your machine is running Ubuntu or Windows Subsystem for Linux (WSL) 
 ```bash
 sudo apt-get update 
 sudo apt-get install pkg-config git openssl \
-sudo apt-get install mosquitto mosquitto-clients
+&& sudo apt-get install mosquitto mosquitto-clients
 ```
 ```bash
 sudo apt-get install build-essential gcc make cmake cmake-gui cmake-curses-gui \
@@ -39,6 +39,6 @@ sudo ldconfig
 ```
 ## Download:
 ```bash
-git clone https://github.com/ascii-63/iot-course-template.git \
+git clone https://github.com/ascii-63/iot-course-template.git
 cd iot-course-template
 ```
